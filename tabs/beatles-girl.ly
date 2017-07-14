@@ -1,5 +1,4 @@
 \section{The Beatles - Girl}
-\begin{samepage}
 
 Capo 3 Fret\\
 \\

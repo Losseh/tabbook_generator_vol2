@@ -1,5 +1,4 @@
 \section{Aria - Shtil}
-\begin{samepage}
 \selectlanguage{russian}
 Штиль… Ветер молчит,		\textbf{Dm C Csus4 C}\\
 Упал				\textbf{Gm Gm/A Gm/Bb}\\

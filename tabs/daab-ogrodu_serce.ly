@@ -1,5 +1,4 @@
 \section{Daab - Ogrodu Serce}
-\begin{samepage}
 W moim ogrodzie gdzie czas leniwy \textbf{Am Em}\\
 Powolną strugą płynął wytrwale \\
 W moim ogrodzie, gdzie jeszcze nigdy \\

@@ -1,5 +1,4 @@
 \section{Kat - Czas zemsty}
-\begin{samepage}
 
 \begin{verbatim}
 e|-----------------------------------------------------------------------------|

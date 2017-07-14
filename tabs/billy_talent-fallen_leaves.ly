@@ -1,5 +1,4 @@
 \section{Billy Talent - Fallen Leaves}
-\begin{samepage}
 \begin{verbatim}
 Intro: Part One (make sure to play this intro by plucking at the
 strings of strumming them)

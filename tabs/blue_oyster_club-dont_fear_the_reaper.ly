@@ -1,5 +1,4 @@
 \section{Blue Oyster Club - Dont fear the reaper}
-\begin{samepage}
 \begin{verbatim}
    Am       G        F       G
 e|-------------------------------------|

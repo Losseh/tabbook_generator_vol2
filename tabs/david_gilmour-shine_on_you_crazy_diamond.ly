@@ -1,5 +1,4 @@
 \section{David Gilmour - Shine on you crazy diamond}
-\begin{samepage}
 \begin{verbatim}
 Gm      355333
 Gm*     x5533x

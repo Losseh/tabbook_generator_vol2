@@ -1,5 +1,4 @@
 \section{America - Horse with no name}
-\begin{samepage}
 On the first part of the journey \textbf{Em D6/9}\\
 I was looking at all the life\\
 There were plants and birds and rocks and things\\

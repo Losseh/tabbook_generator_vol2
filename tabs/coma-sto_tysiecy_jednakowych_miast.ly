@@ -1,5 +1,4 @@
 \section{Coma - Sto tysięcy jednakowych miast}
-\begin{samepage}
 \begin{verbatim}
 e|-----------------------------------------------------------|
 B|-----------------------------------------------------------|

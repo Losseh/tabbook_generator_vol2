@@ -1,5 +1,4 @@
 \section{Dave Brubeck - Take Five}
-\begin{samepage}
 \begin{verbatim}
 Rhythm:
 | 1 & 2 & 3 & 4 & 5 & | 1 & ...

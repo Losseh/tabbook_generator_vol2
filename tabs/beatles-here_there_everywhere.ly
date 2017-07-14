@@ -1,6 +1,4 @@
 \section{The Beatles - Here There and Everywhere}
-\begin{samepage}
-\begin{samepage}
 \begin{verbatim}
 Chords:
 Am7     x-0-2-2-1-3
@@ -42,4 +40,3 @@ Watching her eyes, and hoping I'm always there\\
 [Outro]\\
 I will be there,    and everywhere	\textbf{G Am Bm C}\\
 Here, there, and everywhere		\textbf{G Am Bm C G}\\
-\end{samepage}
