@@ -6,6 +6,4 @@ GUI?
   - spis treści on/off
   - taby/bez tabów
   - wybór piosenek
-  - gotowe playlisty do wczytania
-
-
+  - nierozrywalne bloki tekstu
