@@ -2,14 +2,12 @@ beatles-girl
 beatles-here_there_everywhere
 billy_talent-fallen_leaves
 blue_oyster_club-dont_fear_the_reaper
-bob_marley-i_shot_the_sheriff
 coma-sto_tysiecy_jednakowych_miast
 czas_zemsty_own
-daab-w-moim-ogrodzie
+daab-ogrodu_serce
 dave_brubeck-take_five
 david_gilmour-shine_on_you_crazy_diamond
 eric_clapton-layla
-extreme-more_than_words
 fools_garden-lemon_tree
 godsmack-voodoo
 hey-moja_i_twoja_nadzieja
@@ -34,7 +32,6 @@ perfect-kochaj_mnie
 piersi-caluj_mnie
 pink_floyd-echoes
 pink_floyd-high_hopes
-raz_dwa_trzy-czarna_inez
 seether-careless_whisper
 shinedown-save_me
 t_love-king
@@ -46,3 +43,4 @@ voo_voo-gdybym
 wilki-nie_stalo_sie_nic
 zaz-les_passants
 scorpions-still_loving_you
+song
