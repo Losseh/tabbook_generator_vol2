@@ -1,7 +1,5 @@
 \section{Piersi - Całuj Mnie}
-\begin{verbatim}
-\end{verbatim}
-Kupiłem sobie dżiny, buty, czapkę i pas.	D A h G A D AhGA \\
+Kupiłem sobie dżiny, buty, czapkę i pas. \textbf{D A h G A D AhGA}\\
 Opuszczam Amerykę, byłem tam pięć lat, \\
 Lecz tęsknię już tak bardzo, że nie mogę spać, nie mogę jeść\\
 Marzeniem moim twarz zobaczyć twoją jest. \\
@@ -9,7 +7,7 @@ Wiozę torby z darami w aucie z alufelgami, \\
 Portfel cały wypchany dolarami, a ty... \\
 \\
 Ref: \\
-A ty całuj mnie, to taka piękna gra !	D A h G A DAhGA \\
+A ty całuj mnie, to taka piękna gra! \textbf{D A h G A DAhGA}\\
 Całuj mnie, ja ci to wszystko dam ! \\
 \\
 Podjadę pod okienko twe, zastukam co sił. \\
@@ -21,7 +19,7 @@ Portfel cały wypchany dolarami, a ty... \\
 \\
 Ref. \\
 \\
-Dam ci torby z darami, auto z alufelgami, G E G A \\
+Dam ci torby z darami, auto z alufelgami, \textbf{G E G A} \\
 Portfel cały wypchany dolarami, ehe ! \\
 \\
 Ref. \\

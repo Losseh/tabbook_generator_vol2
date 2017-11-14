@@ -1,6 +1,4 @@
 \section{Kat - Łza dla cieniów minionych}
-\begin{verbatim}
-\end{verbatim}
 Na dnie sarkofagu noc, czarna suknia. \\
 Rozrzucam korale wspomnień... \\
 Wtulona w włosów płaszcz, wonna rodnią swą. \\

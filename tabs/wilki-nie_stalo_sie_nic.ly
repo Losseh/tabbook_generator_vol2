@@ -16,3 +16,4 @@ Krzyczał coś, szarpał ją, uciekła do windy \\
 A teraz jestem tu, ludzi tłum i znowu myśli dziwne \\
 Może bym mógł zostać nią \\
 I nikt tu nie jest winny, myślę, że nie stało się nic\\
+\newpage

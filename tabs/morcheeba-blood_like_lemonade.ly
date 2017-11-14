@@ -2,10 +2,8 @@
 \begin{verbatim}
 | Gm Gm A#    |    Gm A#
 | v  v  vx _  | _  v  vx _  
-v=downstroke, x=mute, _=rest
 \end{verbatim}
-INTRO:\\
-\textbf{Gm A\texttt{\#} F C}\\
+INTRO: \textbf{Gm A\texttt{\#} F C}\\
 \\
 VERSE 1:\\
 Healing holy man, once upon a time \textbf{Gm}\\
@@ -45,7 +43,7 @@ Evil spirits flowed, he drank the blood like lemonade x2\\
 \\
 REFRAIN: He drank the blood like lemonade (x3)\\
 \\
-OUTRO: x8 \textbf{Gm A\texttt{\#} F C}\\
+OUTRO: x8 \textbf{Gm A\texttt{\#} F C}
 \newpage
 
 
