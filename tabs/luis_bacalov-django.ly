@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Luis Bacalov - Django}
 \textbf{Intro}\\
 \\
@@ -25,6 +26,7 @@ Oh django! \textbf{Dm Bb7+}\\
 After the showers is the sun. \textbf{C A}\\
 Will be shining... \textbf{G A Dm}\\
 \\
+\end{absolutelynopagebreak}\begin{absolutelynopagebreak}
 \textbf{Solo}\\
 \\
 Once you loved her, whoa-oh... \textbf{Bb F}\\
@@ -41,8 +43,7 @@ Django! \textbf{Dm}\\
 Oh oh oh django! \textbf{Dm}\\
 You must go on, \textbf{Dm}\\
 Oh oh oh django... \textbf{Dm}
-\newpage
-
+\end{absolutelynopagebreak}\begin{absolutelynopagebreak}
 \begin{verbatim}
 Intro
 E|-3h5-0--3-0-3h5-3-0-5-3-5-3-0-3h5-0--3-0-3h5-3-0------------|
@@ -67,4 +68,4 @@ D|----------0-3------3p0-|--(0)-3------3p0--3-----------|----------|
 A|-----------------------|------------------------------|----------|
 E|-----------------------|------------------------------|----------|
 \end{verbatim}
-\newpage
+\end{absolutelynopagebreak}

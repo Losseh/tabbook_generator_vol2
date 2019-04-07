@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Sektor Gaza - Tvoi Zvonok}
 \selectlanguage{russian}
 Твой звонок раздался ночью. \textbf{Am}\\
@@ -40,3 +41,4 @@
 Я по твоим соскучился губам!\\
 Наплевать на ураган! Наплевать на злой туман!\\
 Но я приду, ведь ты моя судьба!
+\end{absolutelynopagebreak}

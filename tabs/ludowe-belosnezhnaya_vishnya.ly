@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Ludowe - Belosneshnaya Vishnya}
 \selectlanguage{russian}
 Расцвела под окошком \textbf{Em Am}\\
@@ -26,5 +27,4 @@
 Огонечек потушишь,\\
 Неужели тропинку\\
 Ты ко мне не найдешь?
-
-\newpage
+\end{absolutelynopagebreak}

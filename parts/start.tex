@@ -3,10 +3,17 @@
 \usepackage[T1]{fontenc}
 \usepackage{polski}
 \usepackage[polish,russian,icelandic]{babel}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyvrb}
+\newenvironment{absolutelynopagebreak}
+  {\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\egroup\xdef\tpd{\the\prevdepth}
+   \prevdepth=\tpd}
 \title{Śpiewniczek}
 \author{Adrian Szymański}
 \begin{document}
-\maketitle
-\newpage
+%\maketitle
+%\newpage
 \tableofcontents
 \newpage

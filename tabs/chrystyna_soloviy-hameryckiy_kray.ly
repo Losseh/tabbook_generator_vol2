@@ -1,10 +1,13 @@
+\begin{absolutelynopagebreak}
 \section{Łemkowskie - Hameryckij Kraj}
 \selectlanguage{russian}
-Полетів би’м на край світа, \textbf{a}\\
-Як вітер, што в полі літат, гей, \textbf{C G C}\\
-В гамерицький край. \textbf{G C}\\
-Лем жаль ми тя, моя хижо \textbf{a d, a d a}\\
-Солом’яна, жаль. \textbf{d E7 a}\\
+Kapodaster na 3 lub 4 progu\\
+\\
+Полетів би’м на край світа, \textbf{d}\\
+Як вітер, што в полі літат, гей, \textbf{F C F}\\
+В гамерицький край. \textbf{C F}\\
+Лем жаль ми тя, моя хижо \textbf{d g, d g d}\\
+Солом’яна, жаль. \textbf{g A7 d}\\
 \\
 Ой в нас превелика біда –\\
 Не можна заробить хліба, гей,\\
@@ -22,5 +25,5 @@
 Де жиют мамичка з няньом, гой,\\
 Ой жаль ми тя, жаль.\\
 Хоц в нас біда – не поїду\\
-В гамерицький край.\\
-\newpage
+В гамерицький край.
+\end{absolutelynopagebreak}

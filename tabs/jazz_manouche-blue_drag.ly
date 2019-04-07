@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Jazz Manouche - Blue Drag}
 \begin{verbatim}
 | Dm7 F6  |Hm7b5 B7+| Dm7 F6  |Hm7b5 B7+|   Dm7   |  Em7b5  | B7   A7 | Dm7  A7 |
@@ -14,3 +15,4 @@ B7    = 6x676x
 A7    = 5x565x
 Gm7   = 353333
 \end{verbatim}
+\end{absolutelynopagebreak}

@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Zaz - les passants}
 \begin{verbatim}
 Intro: Cm | Cm | Cm | Cm
@@ -6,6 +7,8 @@ Les passants, passant, \textbf{Cm}\\
 J'passe mon temps a les r'garder penser,\\
 Leurs pas pressés, dans leurs corps lésés, \textbf{Fm7}\\
 Leurs passés se dévoilent dans les pas sans se soucier. \textbf{G7 Cm7}\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 \\
 Que, suspicieuse, à l'affût \textbf{Cm}\\
 Je perçois le jeu de pan,\\
@@ -18,6 +21,8 @@ Refrain:\\
      Passe, passe, passera \textbf{Ab6}\\
      La dernière restera. \textbf{Bb Cm}\\
 \\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 L'enfant n'est fait que de fêtes,\\
 Le fait est que l'effet se reflète à sa capacité\\
 De prendre le fait tel qu'il est\\
@@ -35,6 +40,8 @@ Refrain:\\
      La dernière restera.\\
 \\
 Instrumental: \textbf{Cm Cm Cmadd11 Cm | Fm7 | G G G7 G\texttt{\#}dim7 | Cm}\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 \\
 Chaque mois se joue dans des cycles différents,\\
 C'est marrant, ces remous qui m'animent\\
@@ -45,6 +52,8 @@ Par les temps, je cours à l'équilibre,\\
 Chaque jugement sur les gens me donne la direction à suivre\\
 Sur ces choses en moi à changer,\\
 Qui m'empêchent d'être libre.\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 \\
 Les voix se libèrent et s'exposent\\
 Dans les vitrines du monde en mouvement,\\
@@ -55,6 +64,8 @@ Par les temps je cours à l'expression,\\
 Chaque émotion ressentie me donne envie d'exprimer les non-dits\\
 Et que justice soit faite\\
 Dans nos pauvres vies endormies.\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 \\
 Refrain:\\
      Passe, passe, passera\\
@@ -74,4 +85,4 @@ Instrumental: \textbf{Cm | Fm7 | G G7 | Cm} x2\\
      Passe, passe, passera\\
      Bb                   Cmadd9\\
      La dernière restera.
-\newpage
+\end{absolutelynopagebreak}

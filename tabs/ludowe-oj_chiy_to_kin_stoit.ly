@@ -1,4 +1,6 @@
+\begin{absolutelynopagebreak}
 \section{Ludowe - Oy chiy to kin' stoit'}
+\selectlanguage{russian}
 Ой чий то Кінь стоїть \textbf{Em Am H7 Em}\\
 Що Сива Гривонька \textbf{Em Am H7 Em}\\
 Сподобалась мені \textbf{Am D}\\
@@ -24,4 +26,4 @@
 Як Сонечко зійде \textbf{Bm D\texttt{\#}}\\
 як Сонечко зійде \textbf{G\texttt{\#} Fm}\\
 Кохання відійде \textbf{Bm C7 Fm}\\
-\newpage
+\end{absolutelynopagebreak}

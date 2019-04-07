@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Daab - Ogrodu Serce}
 W moim ogrodzie gdzie czas leniwy \textbf{Am Em}\\
 Powolną strugą płynął wytrwale \\
@@ -37,8 +38,5 @@ Co się przegląda nad tafli wodą \\
 I choć tak blisko byłaś przy mnie \\
 Choć twoje oczy śmiały się do mnie \\
 Doprawdy niczego nie jestem pewien \\
-Co czułaś wtedy, czy wart jestem wspomnień \\
-\\
-\newpage
-
-
+Co czułaś wtedy, czy wart jestem wspomnień 
+\end{absolutelynopagebreak}

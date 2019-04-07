@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Jazz Manouche - Minor Swing}
 \begin{verbatim}
 intro:
@@ -7,3 +8,4 @@ chorus:
 |  Am  |  ==  |  Dm  |  ==  |  E7  |  ==  |  Am  |  ==  |
 |  Dm  |  ==  |  Am  |  ==  |  B7  |  E7  |  Am  |  E7  |
 \end{verbatim}
+\end{absolutelynopagebreak}

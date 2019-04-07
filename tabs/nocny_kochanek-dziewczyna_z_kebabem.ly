@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Nocny Kochanek - Dziewczyna z kebabem}
 1. Dwanaście złotych może zabić miłość w człowieku \textbf{G G h h}\\
 Stoisz samotna przy małej budce koło dworca PKS-u \textbf{G G h h}\\
@@ -32,5 +33,4 @@ Dziewczyno ma piękna jak w snach \textbf{A h}\\
 Wciąż czuje kebab, wciąż czuje kebab \textbf{G}\\
 Nie chciałem brać, chciała mi dać \textbf{A h}\\
 kawałek nieba, kawałek nieba \textbf{G} /x2 
-
-\newpage
+\end{absolutelynopagebreak}

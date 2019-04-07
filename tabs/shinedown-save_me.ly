@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Shinedown - Save me}
 I got a candle \textbf{H5 D5}\\
 And I've got a spoon \textbf{A5 G5 F\texttt{\#}5}\\
@@ -39,6 +40,4 @@ Refrain \\
 \\
 Someone save me x4\\
 Please don't erase me
-\newpage
-
-
+\end{absolutelynopagebreak}

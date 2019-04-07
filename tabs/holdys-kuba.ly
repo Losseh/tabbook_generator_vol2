@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Hołdys - Kuba}
 \begin{verbatim}
 zwrotka:
@@ -15,7 +16,7 @@ refren:
 \end{verbatim}
 1.Kuba na ulicy stał na gitarze pięknie grał.\\
 Ja szalałem z tamburynem,ludzie omijali nas.\\
-Ojciec Kuby zamknął nas,trzasnął drzwiami zabrał klucz,\\
+Ojciec Kuby zamknął nas, trzasnął drzwiami zabrał klucz,\\
 związaliśmy prześcieradła, oknem uciekliśmy mu...\\
 \\
 Ref:\\
@@ -30,12 +31,5 @@ I fruwają jak motyle, a ja ciągle myślę że...\\
 Ref:\\
 Jutro wyjadę stąd, nie wiem może to błąd..\\
 Proszę Cię wyjedź ze mną też,byle gdzie. \\
-\\
-Jutro wyjadę stąd, nie wiem może to błąd..\\
-Proszę Cię wyjedź ze mną też,byle gdzie. \\
-\\
-Jutro wyjadę stąd, nie wiem może to błąd..\\
-Proszę Cię wyjedź ze mną też,byle gdzie.\\
-\newpage
-
-
+/x3
+\end{absolutelynopagebreak}

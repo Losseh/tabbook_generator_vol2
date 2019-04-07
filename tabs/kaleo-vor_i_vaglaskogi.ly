@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Kaleo - Vor i vaglaskogi}
 \begin{verbatim}
 Chords in time:
@@ -44,6 +45,6 @@ Kyrrðin er friðandi mild og angurvær.   \\
  leikur í ljósum, lokkum hinn fagnandi blær.\\
 \\
  \textbf{G a C H7 Em* G a C H7 Em}\\
-\newpage
+\end{absolutelynopagebreak}
 
 

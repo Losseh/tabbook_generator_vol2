@@ -27,7 +27,7 @@ a |-2--------3---2-4-5-5-5-2-2-2--|
 E |-0----0-0-----0-2-3-3-3--------|
 * Tylko za 1. razem
 
-Zwrotka 1: chorus, akordy e C a D + flażolety
+Zwrotka 1: chorus, akordy e D C a + flażolety
 \end{verbatim}
 Córko weź perły Ziemi. \\
 Klejnoty zwierzęcych praw. \\
@@ -36,6 +36,7 @@ Wiele lat - dla mnie chwil - byłem jak grom. \\
 Uczyłem Cię. \\
 Z wilka wilk, z nędzy nędza, a z krwi krew. \\
 \\
+Chorus:\\
 Kto ssał... Bóg albo wąż? \\
 Kto ssał? \\
 Ktoś kłamie wciąż i ssie. \\
@@ -50,9 +51,7 @@ Mielił \\
 Zapomniał król, kościół i ty. \\
 Z wilka wilk, z nędzy nędza, a z krwi krew. \\
 \\
-Kto ssał... Bóg albo wąż? \\
-Kto ssał? \\
-Ktoś kłamie wciąż i ssie. \\
+Chorus\\
 \\
 Idzie armia. \\
 Zejdź! \\

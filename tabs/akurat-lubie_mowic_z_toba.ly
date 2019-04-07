@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Akurat - Lubię mówić z Tobą}
 \textbf{c\texttt{\#} E H c\texttt{\#}}\\
 \\
@@ -15,5 +16,5 @@ Może w końcu mi się uda \\
 Wypowiedzieć proste słowa \\
 \\
 I dlatego lubię mówić z Tobą\\ 
-I dlatego lubię mówić z Tobą\\
-\newpage
+I dlatego lubię mówić z Tobą
+\end{absolutelynopagebreak}

@@ -1,7 +1,8 @@
+\begin{absolutelynopagebreak}
 \section{Łemkowskie - V temnu nichku}
 \selectlanguage{russian}
 Kapodaster na 2 progu\\
-\\4er
+\\
 В темну нічку в убочы \textbf{a}\\
 Сова гукат по ночы, \textbf{d E7}\\
 Димлять горы, люде сплять. \textbf{a E7 a}\\
@@ -28,5 +29,5 @@ Kapodaster na 2 progu\\
 Дуют вітры горами, ген.\\
 Лем потокы, фаліі\\
 Споминают за ними,\\
-Споминают за ними, лем.\\
-\newpage
+Споминают за ними, лем.
+\end{absolutelynopagebreak}

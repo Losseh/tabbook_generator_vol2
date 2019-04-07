@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{America - Horse with no name}
 On the first part of the journey \textbf{Em D6/9}\\
 I was looking at all the life\\
@@ -41,6 +42,9 @@ It felt good to be out of the rain\\
 In the desert you can remember your name\\
 'Cause there ain't no one for to give you no pain\\
 La, la ...\\
-\newpage
-
-
+\begin{verbatim}
+D6/9 : xx0200
+Em9  : 020002
+Dmaj9: xx0220
+\end{verbatim}
+\end{absolutelynopagebreak}

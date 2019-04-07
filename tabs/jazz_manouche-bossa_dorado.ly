@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Jazz Manouche - Bossa Dorado}
 \begin{verbatim}
 |   Dm7  |   ==   |   E7   |   ==   |  Em7b5 |   A7   |   Dm7  |Em7b5 A7|
@@ -15,3 +16,4 @@ Gm7   = 353333
 E7b9  = x7676x
 A7#5  = 5x566x
 \end{verbatim}
+\end{absolutelynopagebreak}

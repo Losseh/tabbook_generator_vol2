@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Eric Clapton - Layla}
 \begin{verbatim}
 Intro
@@ -35,5 +36,5 @@ Before I fin'lly go insane\\
 Please don't say we'll never find a way\\
 And tell me all my loves in vain Layla\\
 \\
-Chorus (Riff1) x2\\
-\newpage
+Chorus (Riff1) x2
+\end{absolutelynopagebreak}

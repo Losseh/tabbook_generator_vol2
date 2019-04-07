@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{The Beatles - Girl}
 
 Capo 3 Fret\\
@@ -41,4 +42,5 @@ ah girl \textbf{C Em Dm G7}\\
 \end{verbatim}
 \\
 girl \textbf{C Em Dm G7}\\
-girl \textbf{C Em Dm G7}\\
+girl \textbf{C Em Dm G7}
+\end{absolutelynopagebreak}

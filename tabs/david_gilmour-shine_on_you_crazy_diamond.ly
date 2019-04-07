@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{David Gilmour - Shine on you crazy diamond}
 \begin{verbatim}
 Gm      355333
@@ -12,7 +13,7 @@ F       133211
 Gm/F#   x5433x
 Gm/F    x5333x
 C9      x32333
-Edim    xx2323
+Edim    x7868x
 \end{verbatim}
 
 Remember when you were young, \textbf{Gm}\\
@@ -26,7 +27,7 @@ You were caught in the crossfire \textbf{Gm*}\\
 Of childhood and stardom, \textbf{Gm/F\texttt{\#}}\\
 Blown on the steel breeze. \textbf{Gm/F C9}\\
 Come on you target for faraway laughter, \textbf{Eb Edim}\\
-Come on you stranger, you legend, you martyr, and shine \textbf{Bb Dm Bb+5 Gm}\\
+Come on you stranger, you legend, you martyr, and shine \textbf{Bb Dm D Gm}\\
 \\
 \begin{verbatim}
 Gm | F# | Bb | Eb | Eb/D | Cm7 | Eb/B | F
@@ -43,6 +44,4 @@ With well worn precision,\\
 Blown on the steel breeze.\\
 Come on you raver, you seer of visions,\\
 Come on you painter, you piper, you prisoner and shine\\
-\newpage
-
-
+\end{absolutelynopagebreak}

@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Wilki - Nie stało się nic}
 Jeden dzień, jedna noc, a w życiu jakby piękniej \textbf{Gm Cm D D7}\\
 Byłem z nią parę chwil, było tak namiętnie \\
@@ -15,5 +16,5 @@ Później gdzieś widziałem ją, znowu była z innym \\
 Krzyczał coś, szarpał ją, uciekła do windy \\
 A teraz jestem tu, ludzi tłum i znowu myśli dziwne \\
 Może bym mógł zostać nią \\
-I nikt tu nie jest winny, myślę, że nie stało się nic\\
-\newpage
+I nikt tu nie jest winny, myślę, że nie stało się nic
+\end{absolutelynopagebreak}

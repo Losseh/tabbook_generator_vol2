@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Riverside - Depth of Self delusion}
 I could be foreign forever \textbf{f\texttt{\#}}\\
 To your otherland \textbf{h E}\\
@@ -36,4 +37,4 @@ I could be foreign forever\\
 To your otherland\\
 I could be foreign forevermore\\
 To your promiseland\\
-\newpage
+\end{absolutelynopagebreak}

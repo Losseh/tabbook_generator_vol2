@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Kino - Gruppa krovi}
 \selectlanguage{russian}
 Вступление: \textbf{F\texttt{\#}m | C\texttt{\#}m} x4 \\
@@ -35,5 +36,4 @@
         Пожелай мне удачи, пожелай мне удачи! \textbf{Bm C\texttt{\#}m C\texttt{\#} F\texttt{\#}m}\\
 \\
 Кода: \textbf{F\texttt{\#}m | C\texttt{\#}m} xN
-
-\newpage
+\end{absolutelynopagebreak}

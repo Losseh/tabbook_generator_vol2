@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Wilki - Bohema}
 \textbf{a h C E a}\\
 Od tego trzeba zacząć rzecz\\
@@ -30,5 +31,5 @@ Lecę, bo życie jest złe \\
 Czy są pieniądze czy nie \\
 Lecę, bo wolność to zew \\
 Lecę, bo wciąż kocham ciebie \\
-kocham cię\\
-\newpage
+kocham cię
+\end{absolutelynopagebreak}

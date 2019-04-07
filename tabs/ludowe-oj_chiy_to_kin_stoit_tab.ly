@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Ludowe - Oy chiy to kin' stoit'}
 \selectlanguage{russian}
 \begin{verbatim}
@@ -30,4 +31,4 @@ E|-0-----------------------0-------------|
   Am            H7            Em            Em
 | 1 + 2 + 3 + | 1 + 2 + 3 + | 1 + 2 + 3 + | 1 + 2 + 3 + |
 \end{verbatim}
-\newpage
+\end{absolutelynopagebreak}

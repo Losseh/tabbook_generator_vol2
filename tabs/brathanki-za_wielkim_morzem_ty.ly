@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{BratHanki - Za wielkim morzem Ty}
 Już bieluchny śnieg na polach się skrzy \textbf{e D}\\
 Nowy roczek z wierchów zbiegł ku dolinom \textbf{e D}\\
@@ -17,28 +18,38 @@ Spytam jesień: "Gdzieżeś Ty?"\\
 \\
 \textbf{a H7 a C H7}\\
 \\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 Za wielkim morzem Ty\\
 Za wielką wodą ja\\
 Jak dobry Boże \\
 Nam nie pomożesz\\
 To zgubią się serca dwa\\
 \\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 Za wielkim morzem Ty\\
 Za wielką wodą ja\\
 Jak dobry Boże\\
 Nam nie pomożesz\\
 To zgubią się serca dwa\\
 \\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 Znów bieluchny śnieg na polach się skrzy\\
 Znowu roczek z wierchów zbiegł ku dolinom\\
 Śniegu pytam: "Gdzieżeś Ty?"\\
 Znów szczebiocze ptak, znów wiosna i bzy\\
 Nocą gwiazdy złote tak jak kaczeńce\\
 Gwiazdek pytam: "Gdzieżeś Ty?"\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 \\
 \textbf{a H7 a H7}\\
 \textbf{a H7 a C H7}\\
 \\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 Za wielkim morzem Ty\\
 Za wielką wodą ja\\
 Jak dobry Boże\\
@@ -53,5 +64,5 @@ To zgubią się serca dwa\\
 \\
 \textbf{e D e D C H7}\\
 \textbf{e D e D C H7}\\
-\textbf{H7 e6+}\\
-\newpage
+\textbf{H7 e6+}
+\end{absolutelynopagebreak}

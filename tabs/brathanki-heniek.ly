@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{BratHanki - Heniek}
 \begin{verbatim}
 Beating
@@ -18,6 +19,8 @@ Nie płacz, Hanuś, nie płacz,\\
 nawet w samym niebie\\
 ten twój Heniek ukochany\\
 nie zapomni ciebie.\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
  \\
 Bystry potok wody toczy,\\
 potok wody toczy.\\
@@ -30,7 +33,8 @@ Oj... Nie brocz, serce, nie brocz,\\
 bo nad życia cienie\\
 są marzenia, są wspomnienia,\\
 w których wraca Heniek.\\
-\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 \\
 Ref\\
 Stała Hanka nad potokiem, \textbf{a E7}\\
@@ -51,6 +55,8 @@ kiedy widza Heńka. \textbf{a E7}\\
 \textbf{a d G a}\\
 \textbf{a d G C}\\
 \\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
 Potok wściekle toczył wody,\\
 słysząc chichot Hanki,\\
 kiedy Heniek poraz trzeci\\
@@ -63,6 +69,8 @@ O... Hej, ty wodo! Hej, potoku!\\
 Hanka golusieńka.\\
 Miała rację mamuś Hanki\\
 w kwestii tego Heńka.\\
+\end{absolutelynopagebreak}
+\begin{absolutelynopagebreak}
  \\
 Nad ta woda, nad potokiem\\
 łkało dziewcze młode,\\
@@ -77,5 +85,5 @@ Hanka samiuteńka,\\
 bo po czwartym wianku z rzędu\\
 diabli wzięli Heńka.\\
  \\
-Naj na na...\\
-\newpage
+Naj na na..
+\end{absolutelynopagebreak}

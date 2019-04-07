@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Maciej Maleńczuk - Tango Libido}
 \begin{verbatim}
 Beating
@@ -36,4 +37,4 @@ Więc jeśli teraz nie to kiedy, różane soki spijać z ust\\
 Zachowaj serce dla kolegi, a dla mnie zostaw tylko biust...\\
  \\
 Ref.:
-\newpage
+\end{absolutelynopagebreak}

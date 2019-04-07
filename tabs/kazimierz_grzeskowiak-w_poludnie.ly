@@ -1,17 +1,19 @@
+\begin{absolutelynopagebreak}
 \section{Kazimierz Grześkowiak - W południe}
-Słońce ziemią kołysze \textbf{d g d A}\\
-Chmury z nieba wytarło \textbf{d g d A}\\
-Zda się słychać jak w ciszy \textbf{d g F A}\\
-Z kłosów sypie się ziarno \textbf{d B A A}\\
-Babom łydki bieleją \textbf{d g d A}\\
-W podkasanych spódnicach \textbf{d B F A}\\
+\textbf{Capo 5}\\
+Słońce ziemią kołysze \textbf{a d a E}\\
+Chmury z nieba wytarło \textbf{a d a E}\\
+Zda się słychać jak w ciszy \textbf{a d C E}\\
+Z kłosów sypie się ziarno \textbf{a F E E}\\
+Babom łydki bieleją \textbf{a d a E}\\
+W podkasanych spódnicach \textbf{a F C E}\\
 \\
-Ziemia pęka nadzieją \textbf{d g d A}\\
-Rodzi się południca \textbf{d g d A}\\
-Ptaki w jej warkoczach drzemią \textbf{d B d A}\\
-Gdy spełnioną słońcem ziemią \textbf{d B F A}\\
-Jak ta wola co od Boga \textbf{d g d A}\\
-Chodzi gdzieś po swoich drogach \textbf{d g d A}\\
+Ziemia pęka nadzieją \textbf{a d a E}\\
+Rodzi się południca \textbf{a d a E}\\
+Ptaki w jej warkoczach drzemią \textbf{a F a E}\\
+Gdy spełnioną słońcem ziemią \textbf{a F C E}\\
+Jak ta wola co od Boga \textbf{a d a E}\\
+Chodzi gdzieś po swoich drogach \textbf{a d a E}\\
 \\
 Nikt nie dowie się o tym\\
 Dokąd idzie, skąd przyszła\\
@@ -35,7 +37,8 @@ Dzieci ziemią obdzielę\\
 Zrobię jeszcze Bóg wie co\\
 \\
 Coda\\
-I w pachnącą niedzielę  \textbf{d g d A}\\
-Pójdę za południcą  \textbf{d g d A}\\
-Pójdę za południcą  \textbf{d g d A}\\
-Odejdę z południcą... \textbf{d g A A}
+I w pachnącą niedzielę  \textbf{a d a E}\\
+Pójdę za południcą  \textbf{a d a E}\\
+Pójdę za południcą  \textbf{a d a E}\\
+Odejdę z południcą... \textbf{a d E E}
+\end{absolutelynopagebreak}

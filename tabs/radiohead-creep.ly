@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Radiohead - Creep}
 [Intro]\\
 \textbf{G H C Cm}\\
@@ -11,7 +12,7 @@ in a beautiful world  \textbf{H}\\
 I wish I was special,  \textbf{C}\\
 you're so fucking special. \textbf{Cm}\\
 \\
-[Chorus]\\
+Chorus\\
 But I'm a creep, I'm a weirdo. \textbf{G H}\\
 What the hell am I doing here? \textbf{C}\\
 I don't belong here.  \textbf{Cm}\\
@@ -25,9 +26,9 @@ when I'm not around. \\
 You're so fucking special,\\
 I wish I was special.\\
 \\
-[Chorus]\\
+Chorus\\
 \\
-[Bridge]\\
+Bridge\\
 She's running out the door, \textbf{G H}\\
 she's running, \textbf{C}\\
 she run, run, run, run, run. \textbf{Cm}\\
@@ -37,5 +38,5 @@ whatever you want. \textbf{H}\\
 You're so fucking special, \textbf{C}\\
 I wish I was special, \textbf{Cm}\\
 \\
-[Chorus]
-\newpage
+Chorus
+\end{absolutelynopagebreak}

@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Na Bani - Poezja}
 \textbf{c\texttt{\#} g\texttt{\#} A H}\\
 \\
@@ -10,4 +11,4 @@ Płyniesz cicha przez noce bezsenne\\
 - cichą nocą tak liście szeleszczą-\\
 szepcesz sny, szepcesz słowa tajemne,\\
 w słowach cichych skąpana jak w deszczu...\\
-\newpage
+\end{absolutelynopagebreak}

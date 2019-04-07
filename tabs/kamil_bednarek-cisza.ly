@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Kamil Bednarek - Cisza}
 \textbf{e7 C G h7}\\
 \\
@@ -41,5 +42,5 @@ Będziemy wciąż tacy sami\\
 Z radością odkrywać każdy nowy dzień\\
 To te chwile są z nami\\
 I nigdy nie zabierze nam już ich nikt\\
-Nie zabierze nikt\\
-\newpage
+Nie zabierze nikt
+\end{absolutelynopagebreak}

@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Maciej Maleńczuk - Koledzy}
 \begin{verbatim}
 h:      799777
@@ -40,8 +41,5 @@ I dusza mniej się dusi.\\
 \\
 I więcej kręcę teraz głową mniej więcej o połowę\\
 I mniej się tłucze w mojej duszy\\
-I dusza dusi się mniej.\\
-\\
-\newpage
-
-
+I dusza dusi się mniej.
+\end{absolutelynopagebreak}

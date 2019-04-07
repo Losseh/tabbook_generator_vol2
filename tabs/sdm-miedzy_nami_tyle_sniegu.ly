@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{SDM - Między nami tyle śniegu}
 \begin{verbatim}
 Beating
@@ -33,5 +34,5 @@ gdybyś dziś znów stanęła na progu \\
 ze śniegu pewnie bym się otrzepał \\
 i dziękował sam nie wiem komu \\
 \\
-Między nami tyle śniegu....\\
-\newpage
+Między nami tyle śniegu....
+\end{absolutelynopagebreak}

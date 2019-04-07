@@ -1,5 +1,5 @@
+\begin{absolutelynopagebreak}
 \section{Phish - Stash}
-
 \begin{verbatim}
 chorus:
 |:  Dm7  |   F   |   Gm7  |   A7   |
@@ -12,3 +12,4 @@ chorus:
 |   A7   |   A47 |   ...
 |   G0   |   A#0 |   C#0  |   A7   |
 \end{verbatim}
+\end{absolutelynopagebreak}

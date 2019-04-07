@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Kayah & Bregovic - Kiedyś byłam różą}
 Kiedyś byłam różą \textbf{a F}\\
 Dla twojego serca \textbf{G E a}\\
@@ -43,4 +44,4 @@ Choć wiem że nie mam prawa \textbf{F G}\\
 Bo nie jestem twoja już \textbf{a E a}\\
 Kiedyś różą byłam \textbf{F}\\
 Lecz nie jestem teraz \textbf{E a}
-\newpage
+\end{absolutelynopagebreak}

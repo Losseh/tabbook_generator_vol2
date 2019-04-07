@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Illusion - Nóż}
 Bierze nóż, ten koleś bierze nóż \\
 Wychodzi nocą szukać dnia \\
@@ -30,6 +31,4 @@ Furia, gniew \\
 Zbrodnia, krew \\
 Noce i dnie \\
 Zdrada, krew\
-\newpage
-
-
+\end{absolutelynopagebreak}

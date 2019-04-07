@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Hey - Zazdrość}
 \textbf{h G A f\texttt{\#}}\\
 \\
@@ -18,5 +19,5 @@ I każda w myślach gwałci Cię \\
 Złotą klatkę sprawię Ci \\
 Będę karmić owocami \\
 A do nogi przymocuję \\
-Złotą kulę z diamentami\\
-\newpage
+Złotą kulę z diamentami
+\end{absolutelynopagebreak}

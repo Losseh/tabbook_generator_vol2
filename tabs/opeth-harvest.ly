@@ -1,3 +1,4 @@
+\begin{absolutelynopagebreak}
 \section{Opeth - Harvest}
 \begin{verbatim}
    Cm   Csus   Ab    Gm     G    Am    Am9   Em    Bm    F#    Dm           
@@ -41,4 +42,4 @@ Veiled in pale em--brace,\\
 Reached and touched my face.\\
 \\
 Chorus 3\\
-\newpage
+\end{absolutelynopagebreak}
