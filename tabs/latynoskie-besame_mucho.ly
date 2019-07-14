@@ -1,12 +1,19 @@
 \begin{absolutelynopagebreak}
 \section{Latynoskie - Besame Mucho}
-\begin{verbatim}
-|    Am    |    Am    |    Dm7   |    Dm7   |
-| Hm7b5 A7 | Dm7  F07 |    Am    |    Am    |
-|    A7    |    A7    |    Dm7   |    Dm7   |
-|    Am    |  F   E7  |    Am    |    Am    |
-|    Dm7   |    Am    |    E7    |    A7    |
-|    Dm7   |    Am    |   Hm7b5  |    E7    |
-|    Am    |    Am6   |
-\end{verbatim}
+Bésame, bésame mucho \textbf{Dm9 Gm}\\
+Como si fuera esta noche la última vez \textbf{Gm Gm9 Gm10 A7 Dm}\\
+Bésame, bésame mucho \textbf{D7 Gm}\\
+Que tengo miedo a perderte, perderte después \textbf{Dm B A7 Dm}\\
+\\
+Quiero sentirte muy cerca \textbf{Gm Dm}\\
+Mirarme en tus ojos \textbf{Dm A7}\\
+Verte junto a mi \textbf{A7 Dm D7}\\
+Piensa que tal vez mañana \textbf{Gm Dm}\\
+Yo ya estaré lejos \textbf{Dm E7}\\
+Muy lejos de ti \textbf{E7 A7}\\
+\\
+Bésame, bésame mucho \textbf{Dm9 Gm}\\
+Como si fuera esta noche la última vez \textbf{Gm Gm9 Gm10 A7 Dm}\\
+Bésame, bésame mucho \textbf{D7 Gm}\\
+Que tengo miedo a perderte, perderte después \textbf{Dm B A7 Dm}
 \end{absolutelynopagebreak}
