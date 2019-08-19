@@ -1,7 +1,7 @@
 #!/bin/bash -ex
 
 #INPUTS="ogniskowe.txt akustyczne.txt elektryczne.txt mix.txt tabulatures.txt"
-INPUTS="ogniskowe.txt"
+INPUTS="akustyczne.txt"
 
 ##################################
 

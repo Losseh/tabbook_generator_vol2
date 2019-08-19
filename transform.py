@@ -1,3 +1,25 @@
+# util script to transform standard format of chords(upper verse)+lyrics(lower) song to supported *ly format
+#
+# * Example input in file dummy.lyb
+#
+#    Am    C     
+# I am a dummy song
+#     Am            E        E7
+# And I really like to shake my ass
+#
+# * command to run:
+# python transform.py path/to/dummy.lyb
+#
+# * Output (standard output)
+#
+# I am a dummy song \textbf{Am C}\\
+# And I really like to shake my ass \textbf{Am E E7}\\
+#
+#
+# * In order to save the output as a file please use ">" operator to redirect the output stream to a file.
+# This was done on purpose for an intended usage to first see the output and be able to make needed changes
+# and only after the output has eventually become satisfactory, save the output to the *ly formatted file.
+
 #!/usr/bin/python
 import sys
 import re
